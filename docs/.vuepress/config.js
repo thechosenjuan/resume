@@ -1,9 +1,8 @@
 module.exports = {
-  title: 'Resume',
   description: 'Software Developer',
+  title: 'Juan Flores',
   themeConfig: {
-    navbar: false,
-    search: false,
+    search: false
   },
-  base: '/me/',
+  base: '/resume/',
 };
