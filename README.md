@@ -1,3 +1,3 @@
-# sbaidon
+# Juan Flores
 
-A bit about me.
+Get to know more about me.
