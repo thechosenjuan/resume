@@ -61,10 +61,24 @@ Bachelor of Computer Software Engineering
 
 ## Experience
 
+### Full Stack Developer at Coffee Systems
+
+###### (September 2016 - November 2016)
+
+-   Developed functionality in an administrative website using Symfony
+
+### Intern at Base22
+
+###### (January 2017 - July 2017)
+
+-   Implementation of Front End technologies, such as Vue.js for the company toolkit re-design
+
 ### Frontend Developer at Base22
 
 ###### (January 2017 - Current)
 
+-   Elaboration of system design toolkit that was used in a U.S. Government State project using [handlebars](http://handlebarsjs.com/)
+-   Develop US State marketings sites using IBM WCM technology and HTML/CSS/JS
 -   Elaboration of web application to display a catalog of Movies using React called
     [movix](https://movix.lab.base22.com/)
 
@@ -73,6 +87,13 @@ Bachelor of Computer Software Engineering
 <skills/>
 
 ## Projects
+
+### Stock trading
+
+_(Individual)_
+
+Web application that simulates buy/selling stocks made with Vue.js
+[stocktrader](http://stock-trader-vue-deploy.s3-website.us-east-2.amazonaws.com/)
 
 ## Open Source
 
