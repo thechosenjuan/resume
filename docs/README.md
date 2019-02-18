@@ -40,6 +40,8 @@ skills:
           time: 6 months
         - name: Postman
           time: 6 months
+        - name: Redux
+          time: 2 months
     tongues:
         - name: Spanish
           level: Native speaker
