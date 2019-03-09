@@ -90,6 +90,13 @@ Bachelor of Computer Software Engineering
 
 ## Projects
 
+### Pokémon App
+
+_(Individual)_
+
+Web Application made with Stencil.js that allows the user to encounter Pokémon and view their information in the Pokédex
+[Pokemon App](https://github.com/thechosenjuan/Web-Components-Pokemon)
+
 ### Stock trading
 
 _(Individual)_
